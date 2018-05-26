@@ -1,0 +1,5 @@
+lambda es para construir funciones
+lambda a:a**2 -->crea una funcion sin nombre que recibe un parametro a y retorna a**2
+
+type crea clases
+carro=type('Carro',(),{'arrancar':lambda self:'RUN'})
